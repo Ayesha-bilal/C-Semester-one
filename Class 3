@@ -1,0 +1,67 @@
+#include <stdio.h>
+
+int main() {
+	//Q1
+//	printf("Hello world");
+	
+	//Q2
+//	int x;
+//	x=3;
+//	printf("%d" , x);
+//	
+//	
+//	//Q3
+//	int y;
+//	printf("enter a number:");
+//	scanf("%d" , &y);
+//	
+//	
+//	//Q4
+//	int n , square , cube;
+//	printf("Enter a number:");
+//	scanf("%d" , &n);
+//	printf("The number is : %d \n"  , n);
+//	
+//	square = n*n;
+//	cube=n*n*n;
+//	
+//	printf("The square of the number is : %d \n" , square);
+//	printf("The cube of the number is : %d " , cube);
+//	
+//	
+	//Q5
+//	float length , width , height , volume , surface_area;
+//	
+//	printf("Enter the length of the box:");
+//	scanf("%f",&length);
+//	
+//	printf("Enter the width of the box:");
+//	scanf("%f",&width);
+//	
+//	printf("Enter the height of the box:");
+//	scanf("%f",&height);
+//	
+//	volume = length*width*height;
+//	printf("The volume of the box :%.2f \n" , volume);
+//	
+//	surface_area = (2*length*width) + (2*length*height) + (2*width*height);
+//	printf("The surface area of the box:%.2f",surface_area);
+
+//
+	//Q6
+//	float net_pay , gross_pay , tax;
+//
+//	printf("Enter Gross pay:");
+//	scanf("%f" , &gross_pay);
+//	printf("Your gross pay is : %.2f \n" , gross_pay);
+//	
+//	printf("Enter the taxes you have to pay:");
+//	scanf("%f" , &tax);
+//	printf("The due taxes are : %.2f \n" , tax);
+//	
+//	net_pay = gross_pay - tax;
+//	printf("Your net pay will be : %.2f" , net_pay);
+//	
+	
+	return 0;
+}
